@@ -1,4 +1,4 @@
-NetflixGPT React App
+<h1>NetflixGPT React App</h1>
 
 <p>NetflixGPT React is a modern web application that replicates the core features of Netflix, allowing users to browse, search, and watch trailers for movies and TV shows. Powered by React and TMDB API, this app delivers real-time movie data and user-friendly navigation. With Firebase Authentication, users can securely log in, manage their profiles, and curate a personal Watchlist of their favorite titles. The app also features responsive design, ensuring seamless viewing on both desktop and mobile devices.</p> <br />
 
