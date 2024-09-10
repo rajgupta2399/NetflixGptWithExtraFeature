@@ -3,15 +3,15 @@ Netflix React App
 <p>Netflix-like React App powered by TMDB API and Firebase Authentication.</p> <br />
 
 <h2>Setup</h2> <p>Client Folder: Front-end</p> <li>Install the Node Module folder: <code>npm install</code></li> <li>Run the development server: <code>npm run dev</code></li> <br /> <p>Create a .env file and add the following configuration:</p> <li><code>REACT_APP_TMDB_API_KEY=YOUR_TMDB_API_KEY_HERE</code></li> <br /> <h2>Features</h2>
-Home Page (Accessible after login via Firebase Authentication)
-Firebase-based SignIn/SignUp Page
-Watch Trailers directly from TMDB
-Browse Movies by categories such as Trending, Top Rated, and more
-Search for your favorite movies or TV shows
-Add to Watchlist feature (Movies added to a personalized watchlist)
-Watchlist Page for easy access to saved movies
-Responsive UI for mobile and desktop screens
-Theme Switcher for light/dark mode
+
+- Home Page (Accessible after login via Firebase Authentication)
+- Firebase-based SignIn/SignUp Page
+- Watch Trailers directly from TMDB
+- Browse Movies by categories such as Trending, Top Rated, and more
+- Search for your favorite movies or TV shows
+- Add to Watchlist feature (Movies added to a personalized watchlist)
+- Watchlist Page for easy access to saved movies
+- Responsive UI for mobile and desktop screens
 <h2>Firebase Authentication</h2>
 Firebase handles user authentication for secure login/signup
 After login, users can browse movies, view details, and save to their watchlist
