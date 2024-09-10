@@ -1,9 +1,6 @@
 Netflix React App
 
 <p>Netflix-like React App powered by TMDB API and Firebase Authentication.</p> <br />
-This App is divided into two parts: <br />
-
-Client Folder: Frontend built using React, Redux Toolkit (RTK), and various React UI libraries. <br /> <br />
 
 <h2>Setup</h2> <p>Client Folder: Front-end</p> <li>Install the Node Module folder: <code>npm install</code></li> <li>Run the development server: <code>npm run dev</code></li> <br /> <p>Create a .env file and add the following configuration:</p> <li><code>REACT_APP_TMDB_API_KEY=YOUR_TMDB_API_KEY_HERE</code></li> <br /> <h2>Features</h2>
 Home Page (Accessible after login via Firebase Authentication)
