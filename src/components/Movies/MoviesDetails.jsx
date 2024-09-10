@@ -65,7 +65,7 @@ const MoviesDetails = () => {
   };
   return (
     <div className="relative">
-      <div className="absolute top-0 left-0 w-full h-[790px] bg-cover bg-center bg-no-repeat z-[-1] after:content-[''] after:absolute after:inset-0 after:bg-gradient-to-t after:from-[hsla(250,13%,11%,1)] after:to-[hsla(255,14%,11%,0.844)]">
+      <div className="absolute top-0 left-0 w-full h-full bg-cover bg-center bg-no-repeat z-[-1] after:content-[''] after:absolute after:inset-0 after:bg-gradient-to-t after:from-[hsla(250,13%,11%,1)] after:to-[hsla(255,14%,11%,0.844)]">
         <img
           src={`${imageBaseURL}${backdrop_path || poster_path}`}
           alt={original_title}
