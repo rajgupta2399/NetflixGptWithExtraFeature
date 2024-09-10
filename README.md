@@ -31,7 +31,4 @@ Trending Movies: Displays the top trending movies.
 Movie Details: Displays detailed information and trailers.
 Search: Allows users to search for specific movies or TV shows by name.
 
-<h2>Dummy Login Credentials</h2>
-Email: netflixbyrk@example.com
-Password: 123456
 <h2>💖 Support This Project</h2> <p>Thank you for taking the time to check out this Netflix React App. This project was inspired by my passion for learning React and exploring the vast capabilities of the TMDB API and Firebase. It’s a project built with love and dedication to bring movie-lovers a fun experience.</p> <p>If you have any questions, suggestions, or just want to connect, feel free to reach out.</p> <br /> <p>Made with ❤️ and React.</p>
